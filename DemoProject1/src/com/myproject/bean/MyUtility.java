@@ -10,7 +10,14 @@ public class MyUtility {
 	
 	System.out.println(" method m1 by dev-1");
 	System.out.println(" method m2 by tl");
+	
+	
 
+	}
+	
+	public void m1()
+	{
+		
 	}
 	
 }
