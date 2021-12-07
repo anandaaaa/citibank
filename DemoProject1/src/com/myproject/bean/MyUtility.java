@@ -20,4 +20,9 @@ public class MyUtility {
 		
 	}
 	
+	public void m3()
+	{
+		
+	}
+	
 }
